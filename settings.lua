@@ -27,12 +27,12 @@ data:extend({
 		type = "int-setting",
 		name = "FasterRoboportCharging-roboport-logistics-radius",
 		setting_type = "startup",
-		default_value = "25",
+		default_value = 25,
 	},
 	{
 		type = "int-setting",
 		name = "FasterRoboportCharging-roboport-construction-radius",
 		setting_type = "startup",
-		default_value = "55",
+		default_value = 55,
 	},
 })
